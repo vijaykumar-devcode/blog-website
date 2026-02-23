@@ -1,4 +1,4 @@
-# AuraBlog - Full Stack Multi-Role Blogging Platform (MERN)
+# ByteBlog - Full Stack Multi-Role Blogging Platform (MERN)
 
 A powerful, secure, and scalable blogging platform built with MongoDB, Express, React, and Node.js.
 
@@ -82,3 +82,4 @@ npm run dev
 - `src/store/`: Redux state management.
 - `src/services/`: API calls using Axios.
 - `src/layouts/`: Common page structures.
+
